@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Site em construção...
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
