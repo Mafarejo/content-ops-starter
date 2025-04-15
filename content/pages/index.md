@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Site em construção...
+      text: Site em construção!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
